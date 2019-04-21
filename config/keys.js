@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI = 'mongodb+srv://hoverboard-admin:<password>@socnet-94evt.mongodb.net/test?retryWrites=true';
+    mongoURI: `mongodb+srv://hoverboard-admin:zkkGGkkORw80PXyI@socnet-94evt.mongodb.net/test?retryWrites=true`,
 }
